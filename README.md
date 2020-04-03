@@ -14,6 +14,7 @@
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
+- [x] [Object Oriented Programming in Java - UC SanDiego and Duke](https://www.coursera.org/specializations/object-oriented-programming)
 - [ ] [CS212 - Design of Computer Programs - Peter Norvig](https://eu.udacity.com/course/design-of-computer-programs--cs212)
 - [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
 
@@ -56,7 +57,7 @@
     - [ ] [MOOC - Introduction to Logic - Stanford](https://www.coursera.org/learn/logic-introduction/)
     - [ ] [18.S096 - Topics in Mathematics with Application in Finance, Fall 2013 - MIT](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
     - [ ] [MOOC - Game Theory - Stanford](https://www.coursera.org/learn/game-theory-1)
-    - [] [MOOC - Discrete Optimization - University of Melbourne](https://www.coursera.org/learn/discrete-optimization)
+    - [ ] [MOOC - Discrete Optimization - University of Melbourne](https://www.coursera.org/learn/discrete-optimization)
     - [ ] [Operations Research - SUNY Binghamton University](https://www.youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
     - [ ] [Linear Programming, Fall 2016 - Penn State University](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 
@@ -126,7 +127,7 @@
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-    - [] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
+    - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
     - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
     - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
