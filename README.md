@@ -4,7 +4,7 @@
 
 ### Intro to CS
 
-- [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
+- [x] [CS50 - Introduction to Computer Science - Harvard](http://cs50.tv/)
 
 ### Programming
 
