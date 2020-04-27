@@ -39,7 +39,7 @@
 
 -  **Discrete Maths**
     - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-
+    - [ ] [Discrete Mathematics 2000 - AD university branched from MIT](http://www.aduni.org/courses/discrete/index.php?view=cw)
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
     - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
