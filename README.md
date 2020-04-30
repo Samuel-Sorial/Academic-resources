@@ -115,7 +115,7 @@
 ### Theoretical CS
 
 - [ ] [15-251 - Great Ideas in Theoretical Computer Science - CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
-- [ ] [CS154 - Automata Theory - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)
+- [ ] [CS154 - Automata Theory - Stanford](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 - [ ] [Category Theory, Summer 2016](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ### Machine Learning and Artificial Intelligence
