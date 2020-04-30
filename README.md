@@ -85,7 +85,7 @@
 
 - [ ] [15-213 - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
-- [ ] [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
+- [ ] [6.824 - Distributed Systems, Spring 2020 - MIT](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [ ] [CS436 - Distributed Computer Systems, Winter 2012 - University of Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
 ### Software Engineering
