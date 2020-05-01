@@ -75,7 +75,7 @@
 
 ### Computer Architecture
 
-- [ ] [CS61C - Great Ideas in Computer Architecture, Spring 2015 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+- [ ] [CS61C - Great Ideas in Computer Architecture, Fall 2019 - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61c/fa19/)
 - [ ] [CS152 - Computer Architecture and Engineering, Spring 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [ ] [18-447 - Computer Architecture, Spring 2015 - CMU](http://www.archive.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)
 - [ ] [15-418 - Parallel Computer Architecture and Programming, Spring 2016 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsO4Atvrp86c-4La9Mq3kMQZ)
