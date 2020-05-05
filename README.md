@@ -37,7 +37,6 @@
 
 -  **Discrete Maths**
     - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-    - [ ] [Discrete Mathematics 2000 - AD university branched from MIT](http://www.aduni.org/courses/discrete/index.php?view=cw)
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
     - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
@@ -63,6 +62,7 @@
 
 - [ ] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [ ]  [CS170 - Efficient Algorithms and Intractable Problems Spring 2020 - UC Berkeley](https://cs170.org/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
 - [ ] [6.046J - Design and Analysis of Algorithms, Spring 2015 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 - [ ] [CS161 - Algorithms: Design and Analysis, Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
