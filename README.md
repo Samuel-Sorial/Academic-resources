@@ -1,4 +1,4 @@
-## Computer Science Roadmap (AI Track)
+## Computer Science Academic Resources (AI Track)
 
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
