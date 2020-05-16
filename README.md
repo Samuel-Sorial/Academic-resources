@@ -36,6 +36,7 @@
     - [ ] [AM207 - Stochastic Methods for Data Analysis, Inference and Optimization, 2016 - Harvard](http://am207.github.io/2016/index.html)
 
 -  **Discrete Maths**
+    - [ ] [Introduction to Mathematical Thinking Decal, Spring 2019 - Berkeley](http://imt-decal.org/) 
     - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
     - [ ] [CS70 - Discrete Mathematics and Probability, Fall 2015 - Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
 -  **Opmitisation**
