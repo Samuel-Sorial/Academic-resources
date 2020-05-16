@@ -37,6 +37,7 @@
 
 -  **Discrete Maths**
     - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+    - [ ] [CS70 - Discrete Mathematics and Probability, Fall 2015 - Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
     - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
