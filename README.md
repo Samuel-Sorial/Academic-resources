@@ -70,8 +70,8 @@
 - [ ] [CS161 - Algorithms: Design and Analysis, Part 1 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ] [CS161 - Algorithms: Design and Analysis, Part 2 - Stanford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 - [ ] [6.851 - Advanced Data Structures, Spring 2012 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
-- [ ] [CS224 - Advanced Algorithms, Fall 2014 - Harvard](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
-- [ ] [CS229R - Algorithms for Big Data, Fall 2015 - Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
+- [ ] [CS224 - Advanced Algorithms, Fall 2014 - Harvard](https://people.seas.harvard.edu/~cs224/fall14/lec.html)
+- [ ] [CS229R - Algorithms for Big Data, Fall 2015 - Harvard](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs229r-fall2015-harvard.html)
 
 ### Computer Architecture
 
