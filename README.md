@@ -62,7 +62,7 @@
 
 ### Data Structures and Algorithms
 
-- [ ] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
+- [x] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ]  [CS170 - Efficient Algorithms and Intractable Problems Spring 2020 - UC Berkeley](https://cs170.org/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
