@@ -109,7 +109,7 @@
 
 ### Compilers
 
-- [ ] [CS143 - Compilers, Fall 2014 - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+- [ ] [CS143 - Compilers- Stanford](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 - [ ] [CS164 - Programming Languages and Compilers, Spring 2012 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs164-spring2012-berkeley.html)
 
 ### Theoretical CS
