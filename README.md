@@ -13,6 +13,7 @@
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
 - [x] [Object Oriented Programming in Java - UC SanDiego and Duke](https://www.coursera.org/specializations/object-oriented-programming)
+- [ ] [6.031 - Software Construction, Spring 2020 - MIT](http://web.mit.edu/6.031/www/sp20/)
 - [ ] [CS212 - Design of Computer Programs - Peter Norvig](https://eu.udacity.com/course/design-of-computer-programs--cs212)
 - [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
 
